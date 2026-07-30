@@ -1,1 +1,1 @@
-# Tec-News 2.0
+# TechNews2.0
