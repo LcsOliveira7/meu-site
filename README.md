@@ -1,1 +1,0 @@
-# TechNews2.0
